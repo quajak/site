@@ -55,7 +55,9 @@ sections:
           date_end: '2023-08-31'
           date_start: '2023-05-01'
           description: |-
-            Worked in the Toronto Intelligent Systems Lab on combining pre-trained computer vision models with reinforcement learning 
+            Member of the TISL research group led by Professor Gilitschenski <br>
+            Worked on combining pre-trained computer vision models with reinforcement learning <br>
+            Methods applied: Pytorch, JAX, Rainbow, SAM, FastSAM
           organization: Data Science Institute, University of Toronto, Toronto, Canada
           organization_url: https://datasciences.utoronto.ca/suds/
           title: DSI SUDS Scholar
@@ -67,8 +69,8 @@ sections:
           date_start: '2022-05-01'
           description: |-
             Member of the Fleet Learning for Automated Driving team <br>
-            Analyzed lateral vehicle movement to improve comfort of lane following assistant using customer fleet data <br>
-            Methods applied: Big Data using Spark, Frequentist and Bayesian statistics in Python 
+            For the first time, used large-scale customer fleet data to analyze lateral vehicle movement to improve comfort of lane following assistant <br>
+            Methods applied: Spark, Azure Databricks, Frequentist and Bayesian statistics in Python 
           organization: Mercedes Benz AG, Böblingen, Germany
           organization_url: https://www.mercedes-benz.de/
           title: Data Analytics Internship 
@@ -78,7 +80,7 @@ sections:
           date_end: '2022-04-01'
           date_start: '2021-10-01'
           description: |-
-            Member of BMWK-funded research project "Lokales Umfeldmodell für das Kooperative, Automatisierte Fahren in komplexen Verkehrssituationen" <br>
+            Member of BMWK-funded research project <a href="https://projekt-lukas.de/"> "Lokales Umfeldmodell für das Kooperative, Automatisierte Fahren in komplexen Verkehrssituationen" </a> <br>
             Development of multi-agent reinforcement learning algorithms for centralized planning of connected self-driving vehicles using graph neural networks <br>
             Methods applied: DQN, TD3, RCGN, GAT implemented in Python using PyTorch
           organization: Robert Bosch GmbH, Renningen, Germany
@@ -90,7 +92,7 @@ sections:
           date_start: '2020-06-01'
           date_end: '2020-09-01'
           description: |-
-            Designed and built functional software demonstration based on Server-Side Blazor (C#)
+            Designed and built functional software demonstration based on Server-Side Blazor (C#) <br>
             Contributed to backend by integrating machine learning methods using Python
           organization: Excubo AG, Zug, Switzerland
           organisation_url: excubo
@@ -136,6 +138,8 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: |3-
+              GPA: 3.96/4.0
+
               Programs:
               
               * Computer Science Specialist 
@@ -169,7 +173,9 @@ sections:
           date_start: '2020-11-01'
           date_end: '2021-05-01'
           description: |-            
-            Courses including Statistical Machine Learning and Natural Language Processing using Deep Learning
+            Courses covering: 
+            * Statistical Machine Learning
+            * Natural Language Processing using Deep Learning
         - title: Bachelor of Science - Exchange
           company: Johannes Gutenberg University Mainz
           company_url: ''
@@ -178,7 +184,10 @@ sections:
           date_start: '2020-11-01'
           date_end: '2021-08-31'
           description: |-
-            Courses including Linear Algebra, Probaility and Statistics, and Numerical Methods
+            Courses covering: 
+            * Linear Algebra 
+            * Probaility and Statistics
+            * Numerical Methods
     design:
       columns: '1'
 

@@ -28,8 +28,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In 2022 IEEE 25th International Conference on Intelligent Transportation Systems
-publication_short: In ITSC
+publication: 2022 IEEE 25th International Conference on Intelligent Transportation Systems
+publication_short: ITSC
 
 abstract: The improvement of traffic efficiency at urban intersections receives strong research interest in the field of automated intersection management. So far, mostly non-learning algorithms like reservation or optimization-based ones were proposed to solve the underlying multi-agent planning problem. At the same time, automated driving functions for a single ego vehicle are increasingly implemented using machine learning methods. In this work, we build upon a previously presented graph-based scene representation and graph neural network to approach the problem using reinforcement learning. The scene representation is improved in key aspects by using edge features in addition to the existing node features for the vehicles. This leads to an increased representation quality that is leveraged by an updated network architecture. The paper provides an in-depth evaluation of the proposed method against baselines that are commonly used in automatic intersection management. Compared to a traditional signalized intersection and an enhanced first-in-first-out scheme, a significant reduction of traversal duration is observed at varying traffic densities. Finally, the generalization capability of the graph-based representation is evaluated by testing the policy on intersection layouts not seen during training. The model generalizes virtually without restrictions to smaller intersection layouts and within certain limits to larger ones.
 

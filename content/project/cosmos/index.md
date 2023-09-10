@@ -1,6 +1,6 @@
 ---
 title: Cosmos
-summary: Core-maintainer of the Cosmos open source project, which supports the development of operating systems in C# and includes a custom compiler, standard library, and drivers
+summary: Core-maintainer of the Cosmos open source project <br> Cosmos provides the foundation for the development of operating systems in C# and provides a custom compiler, standard library, and drivers
 tags:
   - Operating Systems
 date: '2023-08-01T00:00:00Z'
@@ -22,6 +22,7 @@ url_code: 'https://github.com/CosmosOS/Cosmos/'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+url_site: "https://www.gocosmos.org/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,5 +32,5 @@ url_video: ''
 slides: ""
 ---
 
-My contributions started in November 2017 and include improving the file system and graphics driver, implement garbage collector, and various compiler enhancements including support for .Net 5.0 and 6.0.
+My contributions started in November 2017 and include improving the file system and graphics driver, implement memory management and garbage collector, and various compiler enhancements including support for .Net 5.0 and 6.0.
 Additionally I have been reviewing other contributions, while also providing support to new users and developers.
