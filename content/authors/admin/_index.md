@@ -80,9 +80,12 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth year computer science and mathematics student at the University of Toronto. My interest lies with development of reinforcement learning agents for situations with sparse and misleading rewards and utilising novel model structures for non-Euclidean data for better performance and generalisation.
-<br>
+I am a fourth year computer science and mathematics student at the University of Toronto. 
+My interest lie in the development of reinforcement learning agents for situations with sparse and misleading rewards and utilising novel model structures for non-Euclidean data for better performance and generalisation.
+
+
 In my work at Bosch, we used graph neural networks and deep reinforcement learning to optimize traffic flow at intersections. We were able to train and evaluate models that outperformed traditional approaches and generalised well to unseen intersection layouts.
 Building on this experience, I applied geometric deep learning, under the supervision of [Professor Engels](https://www.cs.toronto.edu/~sengels/), to the problem of learning strategies for the deck-building game Dominion. The resulting agent were able to learn strategies previously only seen in human play on a wider set of game configurations. 
-<br>
-My current work is in the [Toronto Intelligent Systems Lab](https://tisl.cs.toronto.edu/) led by [Professor Gilitschenski](https://www.gilitschenski.org/igor/), where I am working on object-oriented reinforcement learning using pre-trained computer vision foundation models.
+
+
+Currently, I am working on object-oriented reinforcement learning using pre-trained computer vision foundation models in the [Toronto Intelligent Systems Lab](https://tisl.cs.toronto.edu/) led by [Professor Gilitschenski](https://www.gilitschenski.org/igor/).
