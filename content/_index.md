@@ -163,6 +163,7 @@ sections:
               Awards:
               </p>
 
+              * 2020, 2023 - Dean's List Scholar
               * 2019 - 2020 - Millard Scholarship ($1208)
               * 2022 - 2023 - University of Toronto Scholar ($1500): Recognizes the most outstanding students across all three campuses of the University of Toronto 
         - title: Bachelor of Science - Exchange
