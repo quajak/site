@@ -81,7 +81,7 @@ highlight_name: true
 ---
 
 I am a fourth year computer science and mathematics student at the University of Toronto. 
-My interest lie in the development of reinforcement learning agents for situations with sparse and misleading rewards and utilising novel model structures for non-Euclidean data for better performance and generalisation.
+My interest lie in understanding the foundations of deep reinforcement learning, the development of algorithms for situations with sparse and misleading rewards, and utilising novel model structures for non-Euclidean data for better performance and generalisation. In general, how to develop robust agents which can be feasibly trained. 
 
 
 In my work at Bosch, we used graph neural networks and deep reinforcement learning to optimize traffic flow at intersections. We were able to train and evaluate models that outperformed traditional approaches and generalised well to unseen intersection layouts.
