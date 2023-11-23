@@ -165,6 +165,7 @@ sections:
 
               * 2020, 2023 - Dean's List Scholar
               * 2019 - 2020 - Millard Scholarship ($1208)
+              * 2022 - 2023 - Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics ($500): Recognizes best University College students in science and mathematics
               * 2022 - 2023 - University of Toronto Scholar ($1500): Recognizes the most outstanding students across all three campuses of the University of Toronto 
         - title: Bachelor of Science - Exchange
           company: Technical University of Darmstadt
@@ -187,7 +188,7 @@ sections:
           description: |-
             Courses covering: 
             * Linear Algebra 
-            * Probaility and Statistics
+            * Probability and Statistics
             * Numerical Methods
     design:
       columns: '1'
