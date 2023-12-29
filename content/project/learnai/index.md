@@ -1,6 +1,6 @@
 ---
 title: LearnAI
-summary: Participated in <a href='https://www.uoft.ai/'>LearnAI</a> program at UofT <br> Presented final project at StartAI Conference.
+summary: Participated in <a href='https://www.uoft.ai/'>LearnAI</a> program at UofT <br> Presented final project at StartAI Conference
 tags:
   - Deep Learning
 date: '2019-09-01T00:00:00Z'
