@@ -52,7 +52,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: '2023-08-31'
+          date_end: 'ongoing'
           date_start: '2023-05-01'
           description: |-
             Member of the TISL research group led by Professor Gilitschenski <br>
@@ -172,8 +172,8 @@ sections:
           company_url: ''
           company_logo: darmstadt
           location: Darmstadt, Germany
-          date_start: '2020-11-01'
-          date_end: '2021-05-01'
+          date_start: '2021-05-01'
+          date_end: '2021-10-01'
           description: |-            
             Courses covering: 
             * Statistical Machine Learning
@@ -184,7 +184,7 @@ sections:
           company_logo: mainz
           location: Mainz, Germany
           date_start: '2020-11-01'
-          date_end: '2021-08-31'
+          date_end: '2021-10-01'
           description: |-
             Courses covering: 
             * Linear Algebra 
