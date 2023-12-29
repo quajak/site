@@ -52,7 +52,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: 'ongoing'
+          date_end: '2024-04-31'
           date_start: '2023-05-01'
           description: |-
             Member of the TISL research group led by Professor Gilitschenski <br>
