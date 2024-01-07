@@ -167,6 +167,7 @@ sections:
               * 2019 - 2020 - Millard Scholarship ($1208)
               * 2022 - 2023 - Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics ($500): Recognizes best University College students in science and mathematics
               * 2022 - 2023 - University of Toronto Scholar ($1500): Recognizes the most outstanding students across all three campuses of the University of Toronto 
+              * 2024 Computing Research Association's Outstanding Undergraduate Researcher Award Honorable Mention 
         - title: Bachelor of Science - Exchange
           company: Technical University of Darmstadt
           company_url: ''
