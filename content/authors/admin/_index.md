@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student in Computer Science and Mathematics
+role: Computer Science PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Studying computer science and math with research interests in reinforcement learning and geometric deep learning.
+bio: Computer Science PhD Student working on Robotics
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Reinforcement Learning
-  - Geometric Deep Learning
+  - Robotics
+  - Large Models
 
 # Education to show in About widget
 education:
