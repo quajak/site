@@ -80,12 +80,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth year computer science and mathematics student at the University of Toronto. 
-My interest lie in understanding the foundations of deep reinforcement learning, the development of algorithms for situations with sparse and misleading rewards, and utilising novel model structures for non-Euclidean data for better performance and generalisation. In general, how to develop robust agents capable of learning to solve in general complex tasks. 
+I am a first year PhD student at the University of Toronto supervised by Professor Gilitschenski at the [Toronto ISL lab](https://tisl.cs.toronto.edu/).
+My work focuses on exploiting the abilities of foundational models for robotics with a special attention to controlling uncertainty without losing effectiveness.
 
-
-In my work at Bosch, we used graph neural networks and deep reinforcement learning to optimize traffic flow at intersections. We were able to train and evaluate models that outperformed traditional approaches and generalised well to unseen intersection layouts.
-Building on this experience, I applied geometric deep learning, under the supervision of [Professor Engels](https://www.cs.toronto.edu/~sengels/), to the problem of learning strategies for the deck-building game Dominion. The resulting agent were able to learn strategies previously only seen in human play on a wider set of game configurations. 
-
-
-Currently, I am working on object-oriented reinforcement learning using pre-trained computer vision foundation models in the [Toronto Intelligent Systems Lab](https://tisl.cs.toronto.edu/) led by [Professor Gilitschenski](https://www.gilitschenski.org/igor/).
+For my research during my undergraduate degree at the University of Toronto, I received an honorable mention at the CRA's Outstanding Undergraduate Researcher Awards (2024).
+Beyond researching object-centric reinforcement learning at TISL, I combined graph neural networks and reinforcement learning to optimize traffic flow at intersections during an internship at Bosch Corporate Research. We were able to train models that outperformed traditional approaches and generalised well to unseen intersection layouts.
+Building on this experience, I applied geometric deep learning, under the supervision of [Professor Engels](https://www.cs.toronto.edu/~sengels/), to the problem of learning strategies for the deck-building game Dominion. The resulting agent were able to learn strategies previously only seen in human play on a wider set of game configurations.
