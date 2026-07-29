@@ -52,6 +52,26 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_start: '2024-09-01'
+          description: |-
+            Research on policy learning for robot manipulation with a current focus on generalizable and robust training of vision language action models <br>
+            Methods applied: PyTorch, VLM, VLA, ROS, Aloha, Franka
+          organization: Toronto Intelligent Systems Lab, University of Toronto, Toronto, Canada
+          organization_url: https://tisl.cs.toronto.edu/
+          title: PhD Research
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-09-01'
+          date_start: '2023-05-01'
+          description: |-
+            Research on object-oriented reinforcement learning using foundational computer vision models <br>
+            Initially worked as DSI SUDS Scholar and presented results at DSI SUDS Showcase <br>
+            Methods applied: Python, PyTorch, JAX, SLURM
+          organization: Toronto Intelligent Systems Lab, University of Toronto, Toronto, Canada
+          organization_url: https://tisl.cs.toronto.edu/
+          title: Student Researcher
+          url: ''
+        - certificate_url: ''
           date_end: '2024-04-30'
           date_start: '2023-05-01'
           description: |-
@@ -118,6 +138,44 @@ sections:
           url: https://www.iais.fraunhofer.de/
     design:
       columns: '2'
+  - block: accomplishments
+    content:
+      title: TEACHING EXPERIENCE
+      subtitle:
+      date_format: Jan 2006
+      items:
+        - certificate_url: ''
+          date_start: '2026-01-01'
+          organization: University of Toronto
+          organization_url: https://www.utoronto.ca/
+          title: Course Material Preparation Teaching Assistant, CSC311 (Introduction to Machine Learning)
+          url: ''
+        - certificate_url: ''
+          date_start: '2026-01-01'
+          organization: University of Toronto
+          organization_url: https://www.utoronto.ca/
+          title: Teaching Assistant, CSC258 (Computer Organization)
+          url: ''
+        - certificate_url: ''
+          date_start: '2025-01-01'
+          organization: University of Toronto
+          organization_url: https://www.utoronto.ca/
+          title: Teaching Assistant, CSC413 (Neural Networks and Deep Learning)
+          url: ''
+        - certificate_url: ''
+          date_start: '2025-01-01'
+          organization: University of Toronto
+          organization_url: https://www.utoronto.ca/
+          title: Teaching Assistant, CSC311 (Introduction to Machine Learning)
+          url: ''
+        - certificate_url: ''
+          date_start: '2024-01-01'
+          organization: University of Toronto
+          organization_url: https://www.utoronto.ca/
+          title: Teaching Assistant, CSC413 (Neural Networks and Deep Learning)
+          url: ''
+    design:
+      columns: '2'
   - block: education 
     content:
       title: EDUCATION
@@ -130,13 +188,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD in Computer Science
+          company: University of Toronto
+          company_url: ''
+          company_logo: uoft
+          location: Toronto, Canada
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |-
+            Supervised by Igor Gilitschenski
         - title: Bachelor of Science
           company: University of Toronto
           company_url: ''
           company_logo: uoft
           location: Toronto, Canada
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-04-30'
           description: |3-
               GPA: 3.96/4.0
 
