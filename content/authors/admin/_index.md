@@ -80,8 +80,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a first year PhD student at the University of Toronto supervised by Professor Gilitschenski at the [Toronto ISL lab](https://tisl.cs.toronto.edu/).
-My work focuses on exploiting the abilities of foundational models for robotics with a special attention to controlling uncertainty without losing effectiveness.
+I am a second-year PhD student at the University of Toronto supervised by Professor Gilitschenski at the [Toronto ISL lab](https://tisl.cs.toronto.edu/).
+My work focuses on robust and reliable robotics systems using VLM and VLAs.
 
 For my research during my undergraduate degree at the University of Toronto, I received an honorable mention at the CRA's Outstanding Undergraduate Researcher Awards (2024).
 Beyond researching object-centric reinforcement learning at TISL, I combined graph neural networks and reinforcement learning to optimize traffic flow at intersections during an internship at Bosch Corporate Research. We were able to train models that outperformed traditional approaches and generalised well to unseen intersection layouts.
